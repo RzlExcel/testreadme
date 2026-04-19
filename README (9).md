@@ -5,7 +5,7 @@
   <h3>MODUL 11, 12 & 13 <br> Laravel Aplikasi Inventori Buku </h3>
   <br />
   <br />
-  <img src="public/assets/logo.jpeg" alt="Logo Universitas Telkom Purwokerto" width="300">
+  <img src="logo.png" alt="Logo Universitas Telkom Purwokerto" width="300">
   <br />
   <br />
   <br />
