@@ -65,7 +65,7 @@ Implementasi rute tersembunyi (_hidden route_) untuk halaman login guna meminima
 
 Bagian ini berisi skema database yang digunakan untuk membangun struktur tabel pada sistem. Terdapat tiga tabel utama yaitu profiles untuk data diri, skills untuk daftar keahlian, dan projects untuk galeri karya. Migrasi ini memastikan konsistensi struktur data di lingkungan pengembangan maupun produksi.
 
-# create_profiles_table.php
+#### create_profiles_table.php
 
 ```php
 <?php
