@@ -35,27 +35,27 @@
 
 Sistem ini dirancang untuk memenuhi kebutuhan manajemen identitas digital secara mandiri dan dinamis. Berikut adalah kebutuhan fungsional yang telah diimplementasikan ke dalam sistem:
 
-### 1. Manajemen Autentikasi
+#### 1. Manajemen Autentikasi
 
 Sistem menyediakan fitur login untuk membatasi akses ke panel administrasi, memastikan hanya pemilik portofolio yang dapat mengubah data.
 
-### 2. Pengelolaan Profil (CRUD)
+#### 2. Pengelolaan Profil (CRUD)
 
 Admin dapat memperbarui informasi pribadi seperti nama, bio, dan foto profil secara langsung melalui dashboard.
 
-### 3. Manajemen Keahlian (Skills)
+#### 3. Manajemen Keahlian (Skills)
 
 Sistem memungkinkan admin untuk menambah, mengubah, atau menghapus daftar keahlian beserta persentase penguasaannya.
 
-### 4. Galeri Proyek (Projects)
+#### 4. Galeri Proyek (Projects)
 
 Admin dapat mengelola portofolio hasil karya dengan mengunggah gambar proyek, deskripsi, dan tautan terkait.
 
-### 5. Penyajian Data Dinamis (AJAX)
+#### 5. Penyajian Data Dinamis (AJAX)
 
 Halaman depan (frontend) mampu mengambil dan menampilkan data terbaru dari database secara otomatis menggunakan teknik AJAX tanpa perlu melakukan modifikasi kode HTML secara manual.
 
-### 6. Keamanan Akses
+#### 6. Keamanan Akses
 
 Implementasi rute tersembunyi (_hidden route_) untuk halaman login guna meminimalisir potensi serangan siber pada panel kontrol.
 
