@@ -251,6 +251,7 @@ class CounterScreen extends StatelessWidget {
 
 ```
 *Konfigurasi pubspec.yaml*
+
 *Tambahkan library provider dan flutter_local_notifications pada bagian dependencies:*
 ```yml
 dependencies:
