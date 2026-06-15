@@ -299,7 +299,7 @@ Dua *dependency* utama yang ditambahkan:
 ## 3. Screenshot Hasil
 **Penambahan Nilai Counter**
 
-![Screenshot Penambahan Nilai Counter](hasil1.png)
+![Screenshot Penambahan Nilai Counter](Hasil1.png)
 
 **Reset Counter**
 
