@@ -297,14 +297,17 @@ Dua *dependency* utama yang ditambahkan:
 ---
 
 ## 3. Screenshot Hasil
-menambahkan count
-![Screenshot](hasil1.png)
+**Penambahan Nilai Counter**
 
-reset Count
-![Screenshot](hasil2.png)
+![Screenshot Penambahan Nilai Counter](hasil1.png)
 
-Notip pada bar notif
-![Screenshot](hasil3.png)
+**Reset Counter**
+
+![Screenshot Reset Counter](hasil2.png)
+
+**Notifikasi pada Bilah Notifikasi**
+
+![Screenshot Notifikasi pada Bilah Notifikasi](hasil3.png)
 
 ---
 
